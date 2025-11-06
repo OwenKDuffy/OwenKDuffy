@@ -2,7 +2,7 @@
 - Senior Solutions Engineer, Cloud and Engineering, Deloitte Ireland. 
 - Full stack Dotnet development working with a large public sector client.
 - Graduate of Computer Science Trinity College Dublin
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/owenkduffy/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/owenkduffy/)
 ---
 
 ## Some of my stuff
