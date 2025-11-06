@@ -14,6 +14,8 @@ Ditch the physical cards and embrace modernity with an online version of the cla
 [Check it out!](https://owenkduffy.github.io/KingsCup/Kings.html)
 
 ### Pontoon/21 Online
-            [![PontoonScreenGrab.png](PontoonScreenGrab.png)](https://owenkduffy.github.io/Pontoon/)
-            <p>Got some time to burn? Why not pass some time to play a few hands of Pontoon/21 against the CPU opponent. </br>[Check it out!](https://owenkduffy.github.io/Pontoon/)</p>
+[![PontoonScreenGrab.png](PontoonScreenGrab.png)](https://owenkduffy.github.io/Pontoon/)
+Got some time to burn? Why not pass some time to play a few hands of Pontoon/21 against the CPU opponent. 
+
+[Check it out!](https://owenkduffy.github.io/Pontoon/)
         
