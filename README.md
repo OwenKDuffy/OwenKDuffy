@@ -1,29 +1,33 @@
 # OwenKDuffy
-- Senior Solutions Engineer, Cloud and Engineering, Deloitte Ireland. 
+
+- Senior Solutions Engineer, Cloud and Engineering, Deloitte Ireland.
 - Full stack Dotnet development working with a large public sector client.
 - Graduate of Computer Science Trinity College Dublin
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/owenkduffy/)
+
 ---
 
 ## Some of my stuff
+
 ### Col Compare
 
-Check out my latest project! For the avid cyclist, take a look at your favourite Strava segments and quantify what it is about them that makes them so unique. 
+Check out my latest project! For the avid cyclist, take a look at your favourite Strava segments and quantify what it is about them that makes them so unique.
 
 Using the Strava API we can retrieve data about segments in your starred list and analyse them using Marimo notebooks' app mode in your browser.
 
 [Check it out!](https://owenkduffy.github.io/ColCompare/apps/col_classifier.html)
 
 ### Kings Cup Online
+
 ![Kings Cup Screenshot](./KingsScreenGrab.png)
 
-Ditch the physical cards and embrace modernity with an online version of the classic party game! Gather a bunch of your friends and play a game of Kings using a simulated deck of cards and customisable rules so you can tailor the experience to your own tastes. 
+Ditch the physical cards and embrace modernity with an online version of the classic party game! Gather a bunch of your friends and play a game of Kings using a simulated deck of cards and customisable rules so you can tailor the experience to your own tastes.
 
 [Check it out!](https://owenkduffy.github.io/KingsCup/Kings.html)
 
 ### Pontoon/21 Online
+
 [![PontoonScreenGrab.png](PontoonScreenGrab.png)](https://owenkduffy.github.io/Pontoon/)
-Got some time to burn? Why not pass some time to play a few hands of Pontoon/21 against the CPU opponent. 
+Got some time to burn? Why not pass some time to play a few hands of Pontoon/21 against the CPU opponent.
 
 [Check it out!](https://owenkduffy.github.io/Pontoon/)
-        
