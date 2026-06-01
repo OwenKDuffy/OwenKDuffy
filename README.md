@@ -19,11 +19,11 @@ Using the Strava API we can retrieve data about segments in your starred list an
 
 ### Kings Cup Online
 
-![Kings Cup Screenshot](./KingsScreenGrab.png)
+[![Kings Cup Screenshot](./KingsScreenGrab.png)](https://owenkduffy.github.io/KingsCup/index.html)
 
 Ditch the physical cards and embrace modernity with an online version of the classic party game! Gather a bunch of your friends and play a game of Kings using a simulated deck of cards and customisable rules so you can tailor the experience to your own tastes.
 
-[Check it out!](https://owenkduffy.github.io/KingsCup/Kings.html)
+[Check it out!](https://owenkduffy.github.io/KingsCup/index.html)
 
 ### Pontoon/21 Online
 
